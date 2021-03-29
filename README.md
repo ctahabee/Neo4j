@@ -47,3 +47,5 @@ name (imported from the country column in csv file) (string)
 3. PART_OF - the one-way relationship between state and country (i.e. states are part of a country)
 
 #### The resulting graph database has 27 nodes.
+
+![alt text](https://github.com/ctahabee/Neo4j/blob/main/Tahabee_APAN5400_Graph_DB.png?raw=true)
