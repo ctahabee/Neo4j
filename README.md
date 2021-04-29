@@ -10,7 +10,7 @@ were each imported under their own corresponding node labels with the values map
 
 Companies
 
-####Properties:
+#### Properties:
 
 i. name (imported from 'companyName' column in csv file) (string)
 ii. employees (imported from 'employees' column in csv file) (int)
